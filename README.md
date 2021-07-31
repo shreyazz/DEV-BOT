@@ -2,6 +2,10 @@
 
 Hey hackers 👋🏻, Me and my friend [Sumeet Yadav](https://twitter.com/Sumeet_16) have made a really cool discord bot 🤖!! His name is DEV-BOT ! 🎉🎉
 
+Invite Link: [Bot's invitelink](https://discord.com/oauth2/authorize?client_id=869533384140021781&permissions=149568&scope=bot)
+<br />
+
+Demo Video: [Video-Link](https://youtu.be/En3ZjCyBKqE)
 ## What does this bot do 🤖? 
 
 This bot sends the latest blog you posted on [Dev.to](https://dev.to/) and it also helps people search the top 3 blogs for a specific topic.
@@ -63,6 +67,7 @@ Now you might think that the tag features already exists, but this feature will 
 `-devsearch javascript array methods`, this command will bring top-3 articles for the searched topic.
 
 ------
+
 
 <br />
 
