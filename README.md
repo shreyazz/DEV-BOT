@@ -1,6 +1,6 @@
 # DEV-BOT
 
-Hey hackers 👋🏻, Me and my friend [Sumeet Yadav](https://twitter.com/Sumeet_16) have made a really cool discord bot 🤖!! His name is DEV-BOT ! 🎉🎉
+Hey hackers 👋🏻,I have made a really cool discord bot 🤖!! His name is DEV-BOT ! 🎉🎉
 
 Invite Link: [Bot's invitelink](https://discord.com/oauth2/authorize?client_id=869533384140021781&permissions=149568&scope=bot)
 <br />
@@ -76,8 +76,7 @@ Now you might think that the tag features already exists, but this feature will 
 
 <div> 
   <img src="https://i.ibb.co/C79SbFV/profile-pic3.png" alt="shreyas-pic" margin-left="100px" height="300px" width="300px" float="left" border-radius="100px">
-  
-  <img src="https://i.ibb.co/gJ0M5WT/profile-pic-2.png" alt="sumee-pic" height="300px" width="300px">
+ 
 </div>
 
-Made with 💙 by [Shreyas](https://twitter.com/PahuneShreyas) and [Sumeet](https://twitter.com/Sumeet_16)
+Made with 💙 by [Shreyas](https://twitter.com/PahuneShreyas)
